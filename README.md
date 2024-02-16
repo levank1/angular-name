@@ -1,0 +1,2 @@
+# angular-name
+angular-final
