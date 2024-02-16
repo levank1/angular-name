@@ -1,0 +1,7 @@
+{
+    "todos": [
+      { "id": 1, "title": "Sample Todo 1", "isChecked": false, "date": "Sat Feb 03 2024 00:21:32 GMT+0400" },
+      { "id": 2, "title": "Sample Todo 2", "isChecked": true, "date": "Sat Feb 03 2024 00:22:45 GMT+0400" }
+    ]
+  }
+  
